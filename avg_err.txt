@@ -1,0 +1,31 @@
+linear model v0(standard):
+specific_data = [1]
+36.68621408108343
+specific_data = None
+11.42365441717013
+
+linear model v1(standard):
+specific_data = None
+12.260443994357907
+
+paper (VLSI Implementation of Multi-Channel ECG Lossless Compression System):
+specific_data = [1]
+47.36239106
+specific_data = None
+14.00095435
+
+linear model v0 + paper:
+specific_data = [1]
+35.70020835141939
+
+linear model v0(standard) + paper:
+specific_data = [1]
+49.35484851115548
+
+
+
+compression ratio (linear model v1)
+specific_data = [18]
+4.420946080465533
+specific_data = None
+2.927532144424877
